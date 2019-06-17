@@ -1,0 +1,39 @@
+.body{
+    justify-content: center;
+}
+    .top_hero{
+    font-size: xx-large;
+    font: Franklin Gothic Medium;
+    text-align: center;
+}
+
+    .sp{
+    top:10px;
+    }
+
+.canvas_containar{
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+
+/* #layer2{
+    width:100%;
+}
+#layer1{
+    width:100%;
+} */
+
+    .button_group{
+        text-align: center;
+        padding: 10;
+}
+    .footer_link{
+        text-align: center;
+        bottom: 0;
+
+}
+
+    .wired-toggle{
+    text-align:center;
+}
